@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Practica_6_Controles</string>
+    <string name="agregar">AGREGAR</string>
+    <string name="text">A la espera …</string>
+    <string name="text1">verde azulado</string>
+    <string name="text2">verde</string>
+    <string name="text3">verde claro</string>
+    <string name="text4">lima</string>
+    <string name="llamar">llamar</string>
+    <string name="phone">Telefono</string>
+    <string name="save">guardar</string>
+    <string name="focus_2">foco 2</string>
+    <string name="focus_1">foco 1</string>
+    <string name="selection">Selección</string>
+    <string name="cursor">cursor</string>
+    <string name="search">Buscar cliente</string>
+    <string name="floating_label">Etiqueta flotante</string>
+    <string name="site">Sitio desarrollo móvil</string>
+</resources>
